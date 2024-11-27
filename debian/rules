@@ -1,0 +1,20 @@
+#!/usr/bin/make -f
+
+PACKAGE := guideos-wallpapers
+
+%:
+	dh $@
+
+override_dh_install:
+	# Erstellen der notwendigen Verzeichnisse
+	mkdir -p debian/$(PACKAGE)/usr/share/backgrounds
+	mkdir -p debian/$(PACKAGE)/usr/share/gnome-background-properties
+	mkdir -p debian/$(PACKAGE)/usr/share/doc/$(PACKAGE)
+
+	# Kopieren der Dateien
+	cp -r guideOS debian/$(PACKAGE)/usr/share/backgrounds/guideOS
+	cp guideOS.xml debian/$(PACKAGE)/usr/share/gnome-background-properties/guideOS.xml
+	cp LICENSE debian/$(PACKAGE)/usr/share/doc/$(PACKAGE)/LICENSE
+
+
+	dh_install

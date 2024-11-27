@@ -1,0 +1,13 @@
+Source: guideos-wallpapers
+Section: misc
+Priority: optional
+Maintainer: Timo Westphal <xxx@gmail.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 1.0.0
+Homepage: https://rueegger.me
+
+Package: guideos-wallpapers
+Architecture: all
+Depends: ${misc:Depends}, bash
+Description: GuideOS Wallpapers
+ Wallpapers made by the community.

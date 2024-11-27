@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper>
+     <name>GoFyrst</name>
+     <filename>/usr/share/backgrounds/guideOS/GoFyrst.png</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+     <name>GuideOS 1</name>
+     <filename>/usr/share/backgrounds/guideOS/GuideOS 1.png</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+     <name>GuideOS 2</name>
+     <filename>/usr/share/backgrounds/guideOS/GuideOS 2.png</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+     <name>GuideOS 3</name>
+     <filename>/usr/share/backgrounds/guideOS/GuideOS 3.jpeg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+     <name>GuideOS 4</name>
+     <filename>/usr/share/backgrounds/guideOS/GuideOS 4.png</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+     <name>GuideOS 5</name>
+     <filename>/usr/share/backgrounds/guideOS/GuideOS 5.png</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+     <name>GuideOS 6</name>
+     <filename>/usr/share/backgrounds/guideOS/GuideOS 6.png</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+     <name>JSON</name>
+     <filename>/usr/share/backgrounds/guideOS/JSON.png</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+     <name>Not This Way</name>
+     <filename>/usr/share/backgrounds/guideOS/Not This Way.png</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+     <name>Plauer See</name>
+     <filename>/usr/share/backgrounds/guideOS/Plauer See.png</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+     <name>This Way Blue</name>
+     <filename>/usr/share/backgrounds/guideOS/This Way Blue.png</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+     <name>This Way</name>
+     <filename>/usr/share/backgrounds/guideOS/This Way.png</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+  </wallpaper>
+</wallpapers>
