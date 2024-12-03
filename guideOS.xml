@@ -3,7 +3,7 @@
 <wallpapers>
   <wallpaper>
      <name>Abstract 1</name>
-     <filename>/usr/share/backgrounds/communitywallpapers/Abstract 1.jpg</filename>
+     <filename>/usr/share/backgrounds/guideOS/Abstract 1.jpg</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>
@@ -11,23 +11,23 @@
   </wallpaper>
   <wallpaper>
      <name>Abstract 2</name>
-     <filename>/usr/share/backgrounds/communitywallpapers/Abstract 2.jpg</filename>
+     <filename>/usr/share/backgrounds/guideOS/Abstract 2.jpg</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>
      <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-     <name>Bretzel 1</name>
-     <filename>/usr/share/backgrounds/communitywallpapers/Bretzel 1.jpg</filename>
+     <name>Betzel 1</name>
+     <filename>/usr/share/backgrounds/guideOS/Betzel 1.jpg</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>
      <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-     <name>Bretzel 2</name>
-     <filename>/usr/share/backgrounds/communitywallpapers/Bretzel 2.jpg</filename>
+     <name>Betzel 2</name>
+     <filename>/usr/share/backgrounds/guideOS/Betzel 2.jpg</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>
@@ -35,7 +35,7 @@
   </wallpaper>
   <wallpaper>
      <name>Cornored 1</name>
-     <filename>/usr/share/backgrounds/communitywallpapers/Cornored 1.jpg</filename>
+     <filename>/usr/share/backgrounds/guideOS/Cornored 1.jpg</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>
@@ -43,7 +43,7 @@
   </wallpaper>
   <wallpaper>
      <name>Cornored 2</name>
-     <filename>/usr/share/backgrounds/communitywallpapers/Cornored 2.jpg</filename>
+     <filename>/usr/share/backgrounds/guideOS/Cornored 2.jpg</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>
@@ -51,17 +51,15 @@
   </wallpaper>
   <wallpaper>
      <name>Drowning 1</name>
-     <filename>/usr/share/backgrounds/communitywallpapers/Drowning 1.jpg</filename>
+     <filename>/usr/share/backgrounds/guideOS/Drowning 1.jpg</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>
      <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-     <name>Drowning
- 2</name>
-     <filename>/usr/share/backgrounds/communitywallpapers/Drowning
- 2.jpg</filename>
+     <name>Drowning 2</name>
+     <filename>/usr/share/backgrounds/guideOS/Drowning 2.jpg</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>
@@ -69,7 +67,7 @@
   </wallpaper>
   <wallpaper>
      <name>GoFhyrst</name>
-     <filename>/usr/share/backgrounds/communitywallpapers/GoFhyrst.png</filename>
+     <filename>/usr/share/backgrounds/guideOS/GoFhyrst.png</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>
@@ -77,7 +75,7 @@
   </wallpaper>
   <wallpaper>
      <name>GuideOS 1</name>
-     <filename>/usr/share/backgrounds/communitywallpapers/GuideOS 1.png</filename>
+     <filename>/usr/share/backgrounds/guideOS/GuideOS 1.png</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>
@@ -85,7 +83,7 @@
   </wallpaper>
   <wallpaper>
      <name>GuideOS 2</name>
-     <filename>/usr/share/backgrounds/communitywallpapers/GuideOS 2.png</filename>
+     <filename>/usr/share/backgrounds/guideOS/GuideOS 2.png</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>
@@ -93,7 +91,7 @@
   </wallpaper>
   <wallpaper>
      <name>GuideOS 3</name>
-     <filename>/usr/share/backgrounds/communitywallpapers/GuideOS 3.jpeg</filename>
+     <filename>/usr/share/backgrounds/guideOS/GuideOS 3.jpeg</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>
@@ -101,7 +99,7 @@
   </wallpaper>
   <wallpaper>
      <name>GuideOS 4</name>
-     <filename>/usr/share/backgrounds/communitywallpapers/GuideOS 4.png</filename>
+     <filename>/usr/share/backgrounds/guideOS/GuideOS 4.png</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>
@@ -109,7 +107,7 @@
   </wallpaper>
   <wallpaper>
      <name>GuideOS 5</name>
-     <filename>/usr/share/backgrounds/communitywallpapers/GuideOS 5.png</filename>
+     <filename>/usr/share/backgrounds/guideOS/GuideOS 5.png</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>
@@ -117,7 +115,7 @@
   </wallpaper>
   <wallpaper>
      <name>GuideOS 6</name>
-     <filename>/usr/share/backgrounds/communitywallpapers/GuideOS 6.png</filename>
+     <filename>/usr/share/backgrounds/guideOS/GuideOS 6.png</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>
@@ -125,7 +123,7 @@
   </wallpaper>
   <wallpaper>
      <name>Hagelschaden 1</name>
-     <filename>/usr/share/backgrounds/communitywallpapers/Hagelschaden 1.jpg</filename>
+     <filename>/usr/share/backgrounds/guideOS/Hagelschaden 1.jpg</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>
@@ -133,7 +131,7 @@
   </wallpaper>
   <wallpaper>
      <name>Hagelschaden 2</name>
-     <filename>/usr/share/backgrounds/communitywallpapers/Hagelschaden 2.jpg</filename>
+     <filename>/usr/share/backgrounds/guideOS/Hagelschaden 2.jpg</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>
@@ -141,7 +139,7 @@
   </wallpaper>
   <wallpaper>
      <name>Hive 1</name>
-     <filename>/usr/share/backgrounds/communitywallpapers/Hive 1.jpg</filename>
+     <filename>/usr/share/backgrounds/guideOS/Hive 1.jpg</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>
@@ -149,7 +147,7 @@
   </wallpaper>
   <wallpaper>
      <name>Hive 2</name>
-     <filename>/usr/share/backgrounds/communitywallpapers/Hive 2.jpg</filename>
+     <filename>/usr/share/backgrounds/guideOS/Hive 2.jpg</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>
@@ -157,7 +155,7 @@
   </wallpaper>
   <wallpaper>
      <name>JSON</name>
-     <filename>/usr/share/backgrounds/communitywallpapers/JSON.png</filename>
+     <filename>/usr/share/backgrounds/guideOS/JSON.png</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>
@@ -165,7 +163,7 @@
   </wallpaper>
   <wallpaper>
      <name>Plastic 1</name>
-     <filename>/usr/share/backgrounds/communitywallpapers/Plastic 1.jpg</filename>
+     <filename>/usr/share/backgrounds/guideOS/Plastic 1.jpg</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>
@@ -173,7 +171,7 @@
   </wallpaper>
   <wallpaper>
      <name>Plastic 2</name>
-     <filename>/usr/share/backgrounds/communitywallpapers/Plastic 2.jpg</filename>
+     <filename>/usr/share/backgrounds/guideOS/Plastic 2.jpg</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>
@@ -181,7 +179,7 @@
   </wallpaper>
   <wallpaper>
      <name>Plauer See</name>
-     <filename>/usr/share/backgrounds/communitywallpapers/Plauer See.png</filename>
+     <filename>/usr/share/backgrounds/guideOS/Plauer See.png</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>
@@ -189,7 +187,7 @@
   </wallpaper>
   <wallpaper>
      <name>This Way Blue</name>
-     <filename>/usr/share/backgrounds/communitywallpapers/This Way Blue.png</filename>
+     <filename>/usr/share/backgrounds/guideOS/This Way Blue.png</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>
@@ -197,7 +195,7 @@
   </wallpaper>
   <wallpaper>
      <name>This Way</name>
-     <filename>/usr/share/backgrounds/communitywallpapers/This Way.png</filename>
+     <filename>/usr/share/backgrounds/guideOS/This Way.png</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>
@@ -205,7 +203,7 @@
   </wallpaper>
   <wallpaper>
      <name>Vortex 1</name>
-     <filename>/usr/share/backgrounds/communitywallpapers/Vortex 1.jpg</filename>
+     <filename>/usr/share/backgrounds/guideOS/Vortex 1.jpg</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>
@@ -213,7 +211,7 @@
   </wallpaper>
   <wallpaper>
      <name>Vortex 2</name>
-     <filename>/usr/share/backgrounds/communitywallpapers/Vortex 2.jpg</filename>
+     <filename>/usr/share/backgrounds/guideOS/Vortex 2.jpg</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>
