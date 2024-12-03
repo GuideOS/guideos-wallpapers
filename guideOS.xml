@@ -18,16 +18,16 @@
      <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-     <name>Betzel 1</name>
-     <filename>/usr/share/backgrounds/communitywallpapers/Betzel 1.jpg</filename>
+     <name>Bretzel 1</name>
+     <filename>/usr/share/backgrounds/communitywallpapers/Bretzel 1.jpg</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>
      <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-     <name>Betzel 2</name>
-     <filename>/usr/share/backgrounds/communitywallpapers/Betzel 2.jpg</filename>
+     <name>Bretzel 2</name>
+     <filename>/usr/share/backgrounds/communitywallpapers/Bretzel 2.jpg</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>
@@ -50,10 +50,8 @@
      <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-     <name>Drowning
- 1</name>
-     <filename>/usr/share/backgrounds/communitywallpapers/Drowning
- 1.jpg</filename>
+     <name>Drowning 1</name>
+     <filename>/usr/share/backgrounds/communitywallpapers/Drowning 1.jpg</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>
