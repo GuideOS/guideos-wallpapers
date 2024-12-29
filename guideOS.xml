@@ -18,16 +18,16 @@
      <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-     <name>Betzel 1</name>
-     <filename>/usr/share/backgrounds/guideOS/Betzel 1.jpg</filename>
+     <name>Bretzel 1</name>
+     <filename>/usr/share/backgrounds/guideOS/Bretzel 1.jpg</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>
      <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-     <name>Betzel 2</name>
-     <filename>/usr/share/backgrounds/guideOS/Betzel 2.jpg</filename>
+     <name>Bretzel 2</name>
+     <filename>/usr/share/backgrounds/guideOS/Bretzel 2.jpg</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>
@@ -154,8 +154,16 @@
      <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-     <name>JSON</name>
-     <filename>/usr/share/backgrounds/guideOS/JSON.png</filename>
+     <name>Horizon 1</name>
+     <filename>/usr/share/backgrounds/guideOS/Horizon 1.png</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+     <name>Horizon 2</name>
+     <filename>/usr/share/backgrounds/guideOS/Horizon 2.png</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>
