@@ -13,7 +13,9 @@ override_dh_install:
 
 	# Kopieren der Dateien
 	cp -r guideOS debian/$(PACKAGE)/usr/share/backgrounds/guideOS
+	cp -r Natur debian/$(PACKAGE)/usr/share/backgrounds/Natur
 	cp guideOS.xml debian/$(PACKAGE)/usr/share/gnome-background-properties/guideOS.xml
+	cp Natur.xml debian/$(PACKAGE)/usr/share/gnome-background-properties/Natur.xml
 	cp LICENSE debian/$(PACKAGE)/usr/share/doc/$(PACKAGE)/LICENSE
 
 

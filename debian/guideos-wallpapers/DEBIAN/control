@@ -1,0 +1,11 @@
+Package: guideos-wallpapers
+Version: 1.0.4
+Architecture: all
+Maintainer: Timo Westphal <xxx@gmail.com>
+Installed-Size: 215775
+Depends: bash
+Section: misc
+Priority: optional
+Homepage: https://rueegger.me
+Description: GuideOS Wallpapers
+ Wallpapers made by the community.

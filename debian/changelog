@@ -1,3 +1,21 @@
+guideos-wallpapers (2.0) unstable; urgency=medium
+
+  * Added: Fanless
+
+ -- Actionschnitzel <actionschnitzel@guideos.de>  Sun, 04 May 2025 17:32:14 +0200
+
+guideos-wallpapers (1.0.4) unstable; urgency=medium
+
+  * Added: Natur Backgrounds
+
+ -- Actionschnitzel <actionschnitzel@guideos.de>  Wed, 05 Feb 2025 15:05:18 +0100
+
+guideos-wallpapers (1.0.3-2) unstable; urgency=medium
+
+  * Added: Artist names
+
+ -- Actionschnitzel <actionschnitzel@guideos.de>  Fri, 24 Jan 2025 22:37:26 +0100
+
 guideos-wallpapers (1.0.3) unstable; urgency=medium
 
   * Added: Horizon 1 & 2
