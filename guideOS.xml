@@ -289,4 +289,13 @@
      <artist>Actionschnitzel</artist>
      <shade_type>solid</shade_type>
   </wallpaper>
+  <wallpaper>
+     <name>New 1</name>
+     <filename>/usr/share/backgrounds/guideOS/new.png</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <artist>Actionschnitzel</artist>
+     <shade_type>solid</shade_type>
+  </wallpaper>
 </wallpapers>
